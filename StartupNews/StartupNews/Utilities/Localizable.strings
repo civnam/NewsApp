@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  StartupNews
+
+  Created by Isaac Dimas on 17/12/22.
+  
+*/
+
+"url.api" = "https://inshorts.deta.dev/news?category=";
+
+"category.national" = "national";
+"category.business" = "business";
+"category.sports" = "sports";
+"category.world" = "world";
+"category.politics" = "politics";
+"category.technology" = "technology";
+"category.startup" = "startup";
+"category.entertainment" = "entertainment";
+"category.miscellaneous" = "miscellaneous";
+"category.hatke" = "hatke";
+"category.science" = "science";
+"category.automobile" = "automobile";
+
+"menu.storyboard.name" = "News";
+"detail.storyboard.name" = "DetailNews";
+"news.cell.id" = "NewsCell";
+"menu.cell.id" = "MenuCell";
+"newsNibName" = "NewsTableViewCell";
+"menuNibName" = "MenuTableViewCell";
+"menu.identifier" = "MenuViewController";
+"detail.identifier" = "DetailNewsViewController";
+"title" = "Startup News";
